@@ -10,3 +10,10 @@
 - Javascript
 - HTML
 - CSS
+---
+### Outros
+---
+- Explorar o Git/Git Hub
+- Explorar o VS Code
+- Dar inicio a pequenos projetos/praticar
+- Fazer uma pausa e tomar café
